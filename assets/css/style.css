@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Cormorant+Garamond&family=Courgette&family=Gluten&family=Pacifico&family=Poppins&family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Cormorant+Garamond&family=Courgette&family=Gluten&family=Pacifico&family=Poppins&family=Rubik+Beastly&family=Source+Code+Pro:wght@200&display=swap');
+
+body {
+    margin: 0 auto;
+    width: 70%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    border-bottom: 3px solid white;
+    width: 25%;
+    padding-top: 9%;
+    margin: 0 auto;
+    font-size: 400%;
+    font-family: Pacifico;
+}
+
+header {
+    background: url("../img/banner.jpg") no-repeat fixed;
+    background-size: cover;
+    background-position: center -317px;
+    width: 100%;
+    height: 400px;
+}
+
+main {
+    background-color: #f4f4f4;
+    width: 100%;
+    height: 3450px;
+    padding-top: 5%;
+}
+
+.magna {
+    width: 92.8%;
+    margin: 0 auto;
+    height: 450px;
+    padding-top: 5%;
+}
+
+article {
+    text-align: center;
+    background-color: white;
+}
+
+.rond {
+    width: 125px;
+    height: 125px;
+    border: solid 3px #666666;
+    border-radius: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 270%;
+    color: #666666;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    letter-spacing: 4px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    letter-spacing: 4px;
+}
+
+.lorem-1art {
+    padding-top: 2%;
+    width: 40%;
+    margin: 0 auto;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+}
+
+button {
+    border: 2px solid black;
+    letter-spacing: 3px;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 105%;
+}
+
+.btn-first {
+    width: 15%;
+    height: 50px;
+    margin: 3%;
+}
+
+.left {
+    float: left;
+}
+
+.art-2 {
+    width: 43%;
+    height: 570px;
+    margin: 3.5%;
+    border-radius: 10px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 180%;
+    letter-spacing: 4px;
+    color: black;
+    padding: 3.5%;
+    margin: 0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.m {
+    background: url("../img/pic01.jpg") no-repeat;
+    width: 100%;
+    height: 200px;
+    color: white;
+    margin: 0;
+}
+
+.i {
+    background: url("../img/pic02.jpg") no-repeat;
+    width: 100%;
+    height: 200px;
+    color: white;
+    margin: 0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.g {
+    background: url("../img/pic03.jpg") no-repeat;
+    width: 100%;
+    height: 200px;
+    color: white;
+    margin: 0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.h {
+    background: url("../img/pic04.jpg") no-repeat;
+    width: 100%;
+    height: 200px;
+    color: white;
+    margin: 0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.title {
+    padding-top: 18%;
+}
+
+.lorem {
+    padding-top: 8%;
+    color: #666666;
+    width: 85%;
+    font-size: 130%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.btn-art2 {
+    margin-top: 7%;
+    width: 25%;
+    height: 50px;
+    font-size: 110%;
+}
+
+.etiam {
+    width: 100%;
+    height: 500px;
+    background-color: #f4f4f4;
+    color: black;
+}
+
+.clear {
+    clear: both;
+}
+
+.et {
+    width: 30%;
+    color: #666666;
+    margin: 0 auto;
+    font-size: 130%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.idk {
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.bot {
+    font-size: 115%;
+    text-align: left;
+    color: #666666;
+    margin-left: 3.5%;
+}
+
+.boite {
+    width: 50%;
+    height: 500px;
+    text-align: center;
+}
+
+.p-txt {
+    margin-bottom: 13%;
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inp {
+    width: 51%;
+    height: 40px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #666666;
+    color: #666666;
+    background-color: #f7f7f7;
+}
+
+.input {
+    width: 51%;
+    height: 80px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #666666;
+    color: #666666;
+    background-color: #f7f7f7;
+}
+
+.blank {
+    width: 51%;
+    height: 10px;
+}
+
+.request {
+    width: 35%;
+    height: 40px;
+}
+
+.blank-h {
+    width: 51%;
+    height: 80px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+}
+
+.icon {
+    color: #666666;
+    font-size: 150%;
+    text-align: center;
+    width: 20%;
+}
+
+.ic {
+    width: 35%;
+    height: 100px;
+    padding-top: 6%;
+    margin: 0 auto;
+}
+
+.bar {
+    width: 10%;
+    height: 3px;
+    background-color: #666666;
+    margin: 0 auto;
+}
+
+button:hover {
+    transition: 0.5s;
+    border-color: #EF6480;
+    color: #EF6480;
+}
+
+input:hover {
+    transition: 0.3s;
+    border-color: #EF6480;
+    color: #EF6480;
+}
+
+.myself {
+    letter-spacing: 4px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 3%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 90%;
+}
+
+.unt {
+    color: #666666;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 3%;
+    text-align: center;
+    width: 60%;
+}
+
+h3:hover{
+    -ms-transform: scale(1) translate(10px);
+    -webkit-transform: scale(1.2)translate(10px);
+    transform: scale(1.2);
+    transition: transform .5s;
+}
+
+.h3 {
+    overflow: hidden;
+    height: 220px;
+}
